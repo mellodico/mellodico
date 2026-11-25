@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/card.svg" alt="Erin Mello, estudante de Sistemas de Informação, Maceió. Java, Python e TypeScript." width="100%">
+  <img src="card.gif" alt="Erin Mello, estudante de Sistemas de Informação, Maceió. Java, Python e TypeScript." width="100%">
 </p>
  
 ## stack
